@@ -5,7 +5,7 @@
  Performanță: Robustetea și runtime-ul optimizat al limbajului Java îl fac o alegere excelentă pentru rezolvarea problemelor algoritmice.
  Bibliotecă standard bogată: Java vine cu o bibliotecă standard cuprinzătoare care include structuri de date (de exemplu, ArrayList, HashMap), clase utilitare și API-uri puternice pentru manipularea șirurilor de caractere, input/output și operații matematice.
  Reutilizarea codului: Paradigma de programare orientată pe obiect din Java promovează reutilizarea codului prin utilizarea claselor și interfețelor.
- ##*Introducere Java:*
+ **Introducere Java:**
  Programare Orientată pe Obiect: Java este un limbaj de programare orientat pe obiect, ceea ce înseamnă că se concentrează pe crearea de obiecte care încapsulează date și comportament. Această abordare promovează organizarea codului, reutilizarea și modularitatea, facilitând dezvoltarea sistemelor software complexe.
  Independență față de Platformă: Java este independent de platformă, ceea ce înseamnă că poate rula pe orice sistem de operare sau platformă care are instalată o Mașină Virtuală Java (JVM). Această capabilitate „scrie o dată, rulează oriunde” le permite dezvoltatorilor să scrie cod pe o platformă și să îl ruleze pe mai multe platforme fără modificări.
  Robust și Securizat: Java este conceput pentru a fi robust și securizat, ceea ce îl face o alegere populară pentru construirea aplicațiilor de nivel enterprise. Include funcționalități precum gestionarea automată a memoriei (colectarea gunoiului), tratarea excepțiilor și verificarea strictă a tipurilor, care îmbunătățesc stabilitatea și fiabilitatea aplicațiilor Java.
