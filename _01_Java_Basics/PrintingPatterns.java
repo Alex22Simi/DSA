@@ -1,4 +1,3 @@
-package _01_Java_Basics;
 
 public class PrintingPatterns {
     //imagine ex1
