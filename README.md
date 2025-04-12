@@ -1,6 +1,6 @@
 # DSA
-##CURS 1:
-##*De ce Java?*
+# CURS 1:
+**De ce Java?**
  Java este un limbaj versatil care poate fi folosit pentru a rezolva o gamă largă de probleme algoritmice.
  Performanță: Robustetea și runtime-ul optimizat al limbajului Java îl fac o alegere excelentă pentru rezolvarea problemelor algoritmice.
  Bibliotecă standard bogată: Java vine cu o bibliotecă standard cuprinzătoare care include structuri de date (de exemplu, ArrayList, HashMap), clase utilitare și API-uri puternice pentru manipularea șirurilor de caractere, input/output și operații matematice.
